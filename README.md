@@ -1,10 +1,10 @@
-### Hi there 👋
+### 📊 GitHub Stats
+
+![](https://raw.githubusercontent.com/PhoenixmitX/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/PhoenixmitX/github-stats-transparent/output/generated/overview.svg)
 
 <!--
-**PhoenixmitX/PhoenixmitX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### My Stack
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
